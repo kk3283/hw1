@@ -1,8 +1,8 @@
 # CS 550 Homework 1
 
-Full name:  
-Preferred name:  
-Preferred pronouns:  
+Full name:  KAVYA KUMAR 
+Preferred name:  KAVYA
+Preferred pronouns:  SHE/HER
 
 Put anything else you want us to know here.
 
@@ -10,7 +10,7 @@ Put anything else you want us to know here.
 
 Please let us know how much time you spent on each problem. You may enter time using any format described [here](https://github.com/wroberts/pytimeparse).
 
-Problem 1:
+Problem 1: 
 
 Problem 2:
 
